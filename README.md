@@ -91,6 +91,7 @@ Now you can boot your target machine using ```ubuntu-autoinstall-example.iso``` 
 This script is based on [this](https://betterdev.blog/minimal-safe-bash-script-template/) minimal safe bash template, and steps found in [this](https://discourse.ubuntu.com/t/please-test-autoinstalls-for-20-04/15250) discussion thread (particularly [this](https://gist.github.com/s3rj1k/55b10cd20f31542046018fcce32f103e) script).
 The somewhat outdated Ubuntu documentation [here](https://help.ubuntu.com/community/LiveCDCustomization#Assembling_the_file_system) was also useful.
 
+[How-To: Make Ubuntu Autoinstall ISO with Cloud-init](www.pugetsystems.com/labs/hpc/how-to-make-ubuntu-autoinstall-iso-with-cloud-init-2213/)
 
 ### License
 MIT license.
